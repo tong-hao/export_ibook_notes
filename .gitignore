@@ -1,0 +1,26 @@
+# Visual Studio Code
+.vscode/
+.project
+.classpath
+.factorypath
+.settings
+
+# Mac OSX
+.DS_store
+
+# CLion
+.idea/
+cmake-build-*/
+**/*.iml
+**/target/
+
+# Workspace
+workspace/
+
+# outer build directory
+build/
+
+
+# Core dump
+core.*
+*.core
